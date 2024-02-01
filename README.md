@@ -1,4 +1,7 @@
 # MoveAPI
+
+This is a code sample using ASP.Net Web API (.Net 8) on how to build a simple API with Swagger documentation and using JWT authenticatio!
+
 ## See Meghna Articles
 JWT Authentication using ASP.NET Core Web API. We won’t be using any additional Data Base Connection and will define the user credentials in the code for simplicity.
 JWT Authentication is a popular method to provide authentication while exchanging data between two parties. It is a token-based stateless authentication mechanism. 
